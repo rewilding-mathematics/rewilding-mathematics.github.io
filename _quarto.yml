@@ -10,6 +10,7 @@ website:
       - news.qmd
       - seminars.qmd
       - publications.qmd
+      - people.qmd
       - icon: github
         href: https://github.com/rewilding-mathematics/rewilding-mathematics.github.io
   page-footer:

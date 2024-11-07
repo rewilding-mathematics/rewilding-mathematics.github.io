@@ -1,6 +1,6 @@
 ---
 title: "Mathematics of Rewilding: Something Olde, Something New..."
-author: "[Sergei Petrovskii](/people/Sergei_Petrovskii.html)"
+author: Sergei Petrovskii
 date: 2024-01-16
 description: "No description"
 ---

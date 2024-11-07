@@ -1,8 +1,8 @@
 ---
 title: Overview of Rewilding
-author: "[Johan du Toit](/people/Johan_du_Toit.html)"
+author: Johan du Toit
 date: 2024-01-16
-description: "No description"
+description: None
 ---
 
 {{< video https://www.youtube.com/watch?v=ZROCRBtwabA&list=PLUbgZHsSoMEWtrZI6IHJt-6-vN5JZi_mY&index=1 >}}

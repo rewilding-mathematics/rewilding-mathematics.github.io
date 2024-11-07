@@ -1,0 +1,34 @@
+---
+title: People
+---
+
+## Organising Committee
+
+Christina Cobbold
+: *Role*, University of Glasgow
+
+Sarah Durant
+: *Role*, Institute of Zoology, London
+
+Rachel McCrea
+: *Role*, Lancaster University
+
+Sergei Petrovskii
+: *Role*, University of Leicester
+
+Nathalie Pettorelli
+: *Role*, Institute of Zoology, London
+
+Michael Singer (lead organiser)
+: *Role*, University College London
+
+Johan du Toit
+: *Role*, Institute of Zoology, London
+
+## Members
+
+Leo Kaminski
+: University of Glasgow
+
+Joe Marsh Rossney
+: *Research Software Engineer*, UK Centre for Ecology & Hydrology
