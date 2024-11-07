@@ -1,79 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rewilding-mathematics.github.io/seminars.html</loc>
-    <lastmod>2024-11-07T15:52:56.611Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-03-25_Sem3/2_Matthiopoulos.html</loc>
-    <lastmod>2024-11-07T15:52:56.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-04-30_Sem4/1_Bakker.html</loc>
-    <lastmod>2024-11-07T15:52:56.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/2_McCrea.html</loc>
-    <lastmod>2024-11-07T15:52:56.611Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/1_du_Toit.html</loc>
-    <lastmod>2024-11-07T15:52:56.611Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-03-06_Sem2/2_Bickerton.html</loc>
-    <lastmod>2024-11-07T15:52:56.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/news.html</loc>
-    <lastmod>2024-11-07T15:52:56.610Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/news/2024-11-06_workshop_london.html</loc>
-    <lastmod>2024-11-07T15:52:56.610Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/templates/news_item.html</loc>
-    <lastmod>2024-11-07T15:52:56.614Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/templates/blog_post.html</loc>
-    <lastmod>2024-11-07T15:52:56.613Z</lastmod>
+    <loc>https://rewilding-mathematics.github.io/people.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
     <loc>https://rewilding-mathematics.github.io/templates/profile.html</loc>
-    <lastmod>2024-11-07T15:52:56.614Z</lastmod>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
-    <loc>https://rewilding-mathematics.github.io/publications.html</loc>
-    <lastmod>2024-11-07T15:52:56.611Z</lastmod>
+    <loc>https://rewilding-mathematics.github.io/templates/blog_post.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
-    <loc>https://rewilding-mathematics.github.io/news/2024-06-21_workshop_edinburgh.html</loc>
-    <lastmod>2024-11-07T15:52:56.610Z</lastmod>
+    <loc>https://rewilding-mathematics.github.io/news/2024-11-06_workshop_london.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
     <loc>https://rewilding-mathematics.github.io/index.html</loc>
-    <lastmod>2024-11-07T15:52:56.610Z</lastmod>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-03-06_Sem2/1_Lorenzo_Arribas.html</loc>
-    <lastmod>2024-11-07T15:52:56.612Z</lastmod>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-03-06_Sem2/2_Bickerton.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
     <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/3_Petrovskii.html</loc>
-    <lastmod>2024-11-07T15:52:56.611Z</lastmod>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/4_Cobbold.html</loc>
-    <lastmod>2024-11-07T15:52:56.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rewilding-mathematics.github.io/seminars/2024-04-30_Sem4/2_Bertelli.html</loc>
-    <lastmod>2024-11-07T15:52:56.613Z</lastmod>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/1_du_Toit.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
   <url>
     <loc>https://rewilding-mathematics.github.io/seminars/2024-03-25_Sem3/1_Bullock.html</loc>
-    <lastmod>2024-11-07T15:52:56.612Z</lastmod>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-04-30_Sem4/1_Bakker.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-04-30_Sem4/2_Bertelli.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-03-25_Sem3/2_Matthiopoulos.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/4_Cobbold.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-01-16_Sem1/2_McCrea.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars/2024-03-06_Sem2/1_Lorenzo_Arribas.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/news.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/news/2024-06-21_workshop_edinburgh.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/seminars.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/templates/news_item.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rewilding-mathematics.github.io/publications.html</loc>
+    <lastmod>2024-11-07T16:28:45.731Z</lastmod>
   </url>
 </urlset>

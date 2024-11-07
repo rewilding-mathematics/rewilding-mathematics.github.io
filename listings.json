@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/2024-11-06_workshop_london.html",
+      "/news/2024-06-21_workshop_edinburgh.html"
+    ]
+  },
+  {
     "listing": "/seminars.html",
     "items": [
       "/seminars/2024-04-30_Sem4/2_Bertelli.html",
@@ -12,13 +19,6 @@
       "/seminars/2024-01-16_Sem1/3_Petrovskii.html",
       "/seminars/2024-01-16_Sem1/2_McCrea.html",
       "/seminars/2024-01-16_Sem1/1_du_Toit.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2024-11-06_workshop_london.html",
-      "/news/2024-06-21_workshop_edinburgh.html"
     ]
   }
 ]
