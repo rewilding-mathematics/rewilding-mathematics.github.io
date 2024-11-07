@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Mathematics for Rewilding"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - news.qmd
+      - seminars.qmd
+      - publications.qmd
+      - icon: github
+        href: https://github.com/rewilding-mathematics/rewilding-mathematics.github.io
+  page-footer:
+    left: "This website was created using [Quarto](https://quarto.org/) and [Github pages](https://pages.github.com/)"
+    right: "© Joe Marsh Rossney (2024)"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

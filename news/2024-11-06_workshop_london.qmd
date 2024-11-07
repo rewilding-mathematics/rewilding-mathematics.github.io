@@ -1,0 +1,7 @@
+---
+title: Workshop at UCL
+date: 2024-11-06
+description: We met up in London to work on writing a paper.
+---
+
+It was nice.
