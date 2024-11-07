@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Watch this space."
-  },
-  {
     "objectID": "seminars.html",
     "href": "seminars.html",
     "title": "Seminars",
@@ -14,11 +7,11 @@
     "text": "Title\n\n\nAuthor\n\n\nDate\n\n\n\n\n\n\nHabitat Suitability Modelling for Informing Seagrass Restoration in the UK\n\n\nChiara Bertelli, Mike Fowler\n\n\nApr 30, 2024\n\n\n\n\nRewilding Human-dominated Landscapes\n\n\nLiesbeth Bakker\n\n\nApr 30, 2024\n\n\n\n\nSpace Use and Time Lags in Rewilding Applications\n\n\nJason Matthiopoulos\n\n\nMar 25, 2024\n\n\n\n\nRewilding Complex Ecosystems and Landscapes\n\n\nJames Bullock\n\n\nMar 25, 2024\n\n\n\n\nConservation Translocations as a Tool for Rewilding\n\n\nKatie Bickerton\n\n\nMar 6, 2024\n\n\n\n\nRewilding: Stakeholder Perceptions and Tradeoffs\n\n\nAltea Lorenzo-Arribas, Dominic Duckett\n\n\nMar 6, 2024\n\n\n\n\nBringing the mathematical sciences to rewilding: questions, challenges and opportunities.\n\n\nChristina Cobbold\n\n\nJan 16, 2024\n\n\n\n\nMathematics of Rewilding: Something Olde, Something New…\n\n\nSergei Petrovskii\n\n\nJan 16, 2024\n\n\n\n\nRewilding: A Statistician’s Perspective\n\n\nRachel McCrea\n\n\nJan 16, 2024\n\n\n\n\nOverview of Rewilding\n\n\nJohan du Toit\n\n\nJan 16, 2024\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "news/2024-06-21_workshop_edinburgh.html",
-    "href": "news/2024-06-21_workshop_edinburgh.html",
-    "title": "Edinburgh Workshop, June 2024",
+    "objectID": "seminars/2024-01-16_Sem1/1_du_Toit.html",
+    "href": "seminars/2024-01-16_Sem1/1_du_Toit.html",
+    "title": "Overview of Rewilding",
     "section": "",
-    "text": "It was nice."
+    "text": "Additional materials\n\n‘Rewilding’ edited by Pettorelli, Durant and du Toit, CUP https://doi.org/10.1017/9781108560962\ndu Toit JT, Pettorelli N. The differences between rewilding and restoring an ecologically degraded landscape. J Appl Ecol. 2019; 56:2467–2471.\nhttps://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13487 du Toit JT (2023) Steps to operationalize a rewilding decision: Focus on functional types. Front. Ecol. Evol. 11:1114856.\nhttps://www.frontiersin.org/articles/10.3389/fevo.2023.1114856/full"
   },
   {
     "objectID": "news.html",
@@ -28,11 +21,32 @@
     "text": "Workshop at UCL\n\n\n\n\n\nWe met up in London to work on writing a paper.\n\n\n\n\n\nNov 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nEdinburgh Workshop, June 2024\n\n\n\n\n\nWe met up in Edinburgh.\n\n\n\n\n\nJun 21, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "seminars/2024-01-16_Sem1/1_du_Toit.html",
-    "href": "seminars/2024-01-16_Sem1/1_du_Toit.html",
-    "title": "Overview of Rewilding",
+    "objectID": "news/2024-11-06_workshop_london.html",
+    "href": "news/2024-11-06_workshop_london.html",
+    "title": "Workshop at UCL",
     "section": "",
-    "text": "Additional materials\n\n‘Rewilding’ edited by Pettorelli, Durant and du Toit, CUP https://doi.org/10.1017/9781108560962\ndu Toit JT, Pettorelli N. The differences between rewilding and restoring an ecologically degraded landscape. J Appl Ecol. 2019; 56:2467–2471.\nhttps://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.13487 du Toit JT (2023) Steps to operationalize a rewilding decision: Focus on functional types. Front. Ecol. Evol. 11:1114856.\nhttps://www.frontiersin.org/articles/10.3389/fevo.2023.1114856/full"
+    "text": "It was nice."
+  },
+  {
+    "objectID": "templates/profile.html",
+    "href": "templates/profile.html",
+    "title": "<>",
+    "section": "",
+    "text": "Here you can write a bit more about yourself, or include links to papers, talks, etc.\nFor example, what is your disciplinary background? Which parts of rewilding & mathematics are you interested in?\n&lt;&gt;"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Watch this space."
+  },
+  {
+    "objectID": "news/2024-06-21_workshop_edinburgh.html",
+    "href": "news/2024-06-21_workshop_edinburgh.html",
+    "title": "Edinburgh Workshop, June 2024",
+    "section": "",
+    "text": "It was nice."
   },
   {
     "objectID": "index.html",
@@ -61,19 +75,5 @@
     "title": "Mathematics for Rewilding",
     "section": "Enquiries",
     "text": "Enquiries\nWe are keen to increase the breadth of expertise and diversity of experience in our working group.\nPlease context EMAIL ADDRESS for any enquiries."
-  },
-  {
-    "objectID": "news/2024-11-06_workshop_london.html",
-    "href": "news/2024-11-06_workshop_london.html",
-    "title": "Workshop at UCL",
-    "section": "",
-    "text": "It was nice."
-  },
-  {
-    "objectID": "templates/profile.html",
-    "href": "templates/profile.html",
-    "title": "<>",
-    "section": "",
-    "text": "Here you can write a bit more about yourself, or include links to papers, talks, etc.\nFor example, what is your disciplinary background? Which parts of rewilding & mathematics are you interested in?\n&lt;&gt;"
   }
 ]
